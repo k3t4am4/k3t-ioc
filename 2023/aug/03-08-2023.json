@@ -98,10 +98,7 @@
                 "f88526be804223cae5b4314b9bc0f01c24352caa7ec2c7a2f8b6b54c2e902acc"
             ]
         },
-        "url":[],
-        "ipv4":[],
-        "ipv6":[],
-        "domain":[
+        "url":[
             "http://www.bbpline.com",
             "https://cdn.discordapp.com/attachments/1124390807626076192/1128383419970240662/s42.iso",
             "https://cdn.discordapp.com/attachments/1128405963062378558/1128406314452799499/dw4qdkjbqwijhdhbwqjid.iso",
@@ -119,6 +116,9 @@
             "https://www.p-e-c.nl/wp-content/themes/twentytwentyone/hudiiiwj1.php?id=1",
             "https://www.yourbed.it/wp-content/themes/twentytwentyone/blog.php?id=1"
         ],
+        "ipv4":[],
+        "ipv6":[],
+        "domain":[],
         "tag":["proofpoint"]
     }
 ]

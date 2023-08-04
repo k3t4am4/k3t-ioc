@@ -1,4 +1,4 @@
-# k3t-iocs
+# k3t-ioc
 
 (imho) Interesting IOCs, updated daily.
 Attribution of sources is in the "tag" field.
