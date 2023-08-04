@@ -1,0 +1,102 @@
+[
+    {
+        "name":"P2PInfect",
+        "hash":{
+            "md5":[],
+            "sha1":[],
+            "sha256":[
+                "68eaccf15a96fdc9a4961daffec5e42878b5924c3c72d6e7d7a9b143ba2bbfa9",
+                "87a3fc1088449dbd3554fe029a1878a525e64ab4ccf71b23edb03619ba94403a",
+                "88601359222a47671ea6f010a670a35347214d8592bceaf9d2e8d1b303fe26d7",
+                "89be7d1d2526c22f127c9351c0b9eafccd811e617939e029b757db66dadc8f93",
+                "b1fab9d92a29ca7e8c0b0c4c45f759adf69b7387da9aebb1d1e90ea9ab7de76c",
+                "ce047893ac5bd2100db3448bd62c324e471ffcddd48433788bfe885e5f071a89"
+            ]
+        },
+        "url":[],
+        "ipv4":[
+            "35.183.81.182",
+            "66.154.127.38",
+            "66.154.127.39",
+            "8.218.44.75",
+            "97.107.96.14"
+        ],
+        "ipv6":[],
+        "domain":[],
+        "tag":["cadolabs", "unit42"]
+    },
+    {
+        "name":"Midnight Blizzard - APT29",
+        "hash":{
+            "md5":[],
+            "sha1":[],
+            "sha256":[]
+        },
+        "url":[],
+        "ipv4":[],
+        "ipv6":[],
+        "domain":[
+            "accountsVerification.onmicrosoft.com",
+            "azuresecuritycenter.onmicrosoft.com",
+            "identityVerification.onmicrosoft.com",
+            "msftprotection.onmicrosoft.com",
+            "teamsprotection.onmicrosoft.com"
+        ],
+        "tag":["microsoft threat intelligence"]
+    },
+    {
+        "name":"Reptile Rootkit",
+        "hash":{
+            "md5":[
+                "1957e405e7326bd2c91d20da1599d18e",
+                "246c5bec21c0a87657786d5d9b53fe38",
+                "5b788feef374bbac8a572adaf1da3d38",
+                "977bb7fa58e6dfe80f4bea1a04900276",
+                "bb2a0bac5451f8acb229d17c97891eaf",
+                "c3c332627e68ce7673ca6f0d273b282e",
+                "cb61b3624885deed6b2181b15db86f4d",
+                "d1abb8c012cc8864dcc109b5a15003ac",
+                "f8247453077dd6c5c1471edd01733d7f"
+            ],
+            "sha1":[],
+            "sha256":[]
+        },
+        "url":[],
+        "ipv4":[],
+        "ipv6":[],
+        "domain":[],
+        "tag":["asec"]
+    },
+    {
+        "name":"DarkGate Loader",
+        "hash":{
+            "md5":[
+                "149da23d732922b04f82d634750532f3",
+                "1b9e9d90136d033a52d2c282503f33b7"
+            ],
+            "sha1":[],
+            "sha256":[]
+        },
+        "url":[],
+        "ipv4":[],
+        "ipv6":[],
+        "domain":[],
+        "tag":["kaspersky lab"]
+    },
+    {
+        "name":"Lokibot Stealer",
+        "hash":{
+            "md5":[
+                "2c5cf406f3e4cfa448b167751eaea73b",
+                "31707f4c58be2db4fc43cba74f22c9e2"
+            ],
+            "sha1":[],
+            "sha256":[]
+        },
+        "url":[],
+        "ipv4":[],
+        "ipv6":[],
+        "domain":[],
+        "tag":[]
+    }
+]
