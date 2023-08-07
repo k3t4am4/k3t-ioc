@@ -96,7 +96,7 @@
         "url":[
             "http://80.66.75.37",
             "http://185.209.230.21:8080",
-            "https://whyers.io/qwewqdsvsf/ap.php"
+            "https_://whyers.io/qwewqdsvsf/ap.php"
         ],
         "ipv4":[
             "195.3.146.183",
@@ -105,5 +105,33 @@
         "ipv6":[],
         "domain":[],
         "tag":["trendmicro"]
+    },
+    {
+        "name":"AgentTesla",
+        "hash":{
+            "md5":[
+                "26b5685493d76eadbf947a41a6f25ec2",
+                "557e4508aaf4b7037d5cd7edc9224e96",
+                "659132a0b713e560856beb9680e620ac"
+            ],
+            "sha1":[
+                "cfac8fce150848acfa025fc6e79dae1ceb186405",
+                "7c877a697cb4b2efcb354b4601267eaabbba7160",
+                "241262f1ce18ae1475df5396fdaafb3e287fa0ea"
+            ],
+            "sha256":[
+                "aa08c315ab608d10cea917ce37ddac927dcb6aa0420e68d67ea76be3b6b8193c",
+                "153c9ffe148909981900c59c2ccba8ef66f94688ce7ab5e01e3a541937a31294",
+                "11fa33591b75a9c356e8cb59a9553fe8884f06996cd2fed97a859c53c44060d1"
+            ]
+        },
+        "url":[
+            "http://80.76.51.248/nigazxbb.vbs",
+            "http://80.76.51.248/nbvzfip.txt"
+        ],
+        "ipv4":["80.76.51.248"],
+        "ipv6":[],
+        "domain":["mail.worlorderbillions.top"],
+        "tag":["cert-agid"]
     }
 ]
